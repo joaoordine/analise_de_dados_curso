@@ -16,8 +16,12 @@ Check script 01.Process_WGS_NCBI.ipynb
 Check script 02.Alt-ORF_Prediction.ipynb
 
 ### Processing ORFs output 
-- descriptive statistics Alt-ORFs
-- virtual translation: integer and virtual fragmentation (as performed by MS in lysine and arginine)
-  
-### Visualize data 
-Biopython might be interesting
+- Translating nucleic acid sequences from Alt-ORFs to amino acid sequences
+Check script 03.Translate_seqs.ipynb
+
+- In silico trypsin digestion of protein sequences (simulate sample treatment before MS)
+Check script 04.Trypsin_digestion.ipynb
+
+### Visualize generated Alt-ORFs  
+Biopython might be interesting --> - descriptive statistics Alt-ORFs
+- Plots: bar charts with counts, longest-to-smallest ORFs, codon/ORF preference etc
