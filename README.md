@@ -10,7 +10,7 @@ Check scripts 01, 02, and 03.
 
 ### Part 2: *Prediction of Alternative Open Reading Frames (Alt-ORFs) in a model breast cancer cell line (MCF7)*
 #### Genome Retrieval and Processing
-*Option 1*: Ben-David, U., Siranosian, B., Ha, G. et al. Genetic and transcriptional evolution alters cancer cell line drug response. Nature 560, 325–330 (2018). https://doi.org/10.1038/s41586-018-0409-3 - BioProject PRJNA398960; MCF7-scWT5-TS (SRR6730014)
+*Genome*:Ben-David, U., Siranosian, B., Ha, G. et al. Genetic and transcriptional evolution alters cancer cell line drug response. Nature 560, 325–330 (2018). https://doi.org/10.1038/s41586-018-0409-3 - BioProject PRJNA398960; MCF7-scWT5-TS (SRR6730014)
 Check script 04.
 
 #### Predicting Alt-ORFs 
